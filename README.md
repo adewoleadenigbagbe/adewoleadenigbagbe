@@ -8,6 +8,6 @@
 
 :sparkles: I mostly work with backend part of software application with a range of working with programming language like C#, Golang, Javascript and PHP. I am vast in many Database languages, CI/CD tools and process
 
-⚽: Outside of world of tech ,i am avid football enthusiast whether playing a match with friends or following his favorite teams
+⚽: Outside of world of tech, i am avid football enthusiast whether playing a match with friends or following his favorite teams
 
 :books: I also loves to dive into books that span a wide range of genres and subjects, i finds joy in exploring new ideas, stories, and perspectives through literature. I also find joy in listening to music as it provides me comfort and inspiration
