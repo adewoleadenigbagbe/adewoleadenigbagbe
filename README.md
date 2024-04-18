@@ -6,7 +6,7 @@
 
 :sparkles: I am Adewole Adenigbagbe, a dedicated and versatile software developer with a passion for building efficient, scalable, user-friendly applications with experience in a variety of programming languages and frameworks with a strong focus on innovation and efficiency, I thrives in dynamic environments and enjoys working on projects that challenge his technical abilities and enjoys collaborating with other developers to solve complex problems.
 
-:sparkles: I mostly work with backend part of software application with a range of working with programming language like C#, Golang, Javascript and Php. I am vast in many Database languages, CI/CD tools and process
+:sparkles: I mostly work with backend part of software application with a range of working with programming language like C#, Golang, Javascript and PHP. I am vast in many Database languages, CI/CD tools and process
 
 ⚽: Outside of world of tech ,i am avid football enthusiast whether playing a match with friends or following his favorite teams
 
